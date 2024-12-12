@@ -1,0 +1,1 @@
+A simple visual program to ensure voting through a virtual format. This election format will soon take precedence over the traditional one, so this program, despite its simplicity, has an important purpose, because everyone should understand how to use the application on an intuitive basis and be able to make a choice.
